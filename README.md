@@ -1,6 +1,7 @@
 # atxedk
 Alliance Tournament X inspired Theme for [Eve Development Killboard] (https://github.com/evekb/evedev-kb) by Vecati
 
+Original thread: http://evekb.org/forum/viewtopic.php?f=1033&t=18159
 
 ##Installation
 Upload the atxedk folder to your killboard/themes folder. Select the theme in ACP -> Global Options.
