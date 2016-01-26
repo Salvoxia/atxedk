@@ -1,5 +1,5 @@
 # atxedk
-Alliance Tournament X inspired Theme for Eve Development Killboard] (https://github.com/evekb/evedev-kb) by Vecati
+Alliance Tournament X inspired Theme for [Eve Development Killboard] (https://github.com/evekb/evedev-kb) by Vecati
 
 
 ##Installation
