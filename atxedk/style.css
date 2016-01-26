@@ -711,7 +711,7 @@ td.kb-table-imgcell > img
 
 .kb-kills-header
 {
-	background-image:url("img/kills.png");
+	background-image:url("./img/kills.png");
 	background-position: 0 -3px;
 	background-repeat: no-repeat;
 	border-bottom: 1px solid #777;
@@ -726,7 +726,7 @@ td.kb-table-imgcell > img
 
 .kb-losses-header
 {
-	background-image:url("/img/losses.png");
+	background-image:url("./img/losses.png");
 	background-position: 0 -3px;
 	background-repeat: no-repeat;
 	border-bottom: 1px solid #777;
